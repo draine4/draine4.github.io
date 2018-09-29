@@ -6,7 +6,6 @@ image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
-{% youtube oHg5SJYRHA0 500 400 %}
 
 These are videos of my work
 
