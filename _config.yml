@@ -2,7 +2,7 @@
 title: Dudley Raine, IV
 subtitle: homepage
 email: draine4@gmail.com
-description: Dudley <br/>Welcome to my Website! <br/>NYC- Based Violist
+description: Dudley <br/>NYC- Based Violist
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -18,10 +18,10 @@ tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-twitter_url: https://twitter.com/andrewbanchich
+facebook_url: https://www.facebook.com/Draine4
+instagram_url: http://instagram.com/dudzraine4
+linkedin_url: https://www.linkedin.com/in/dudley-raine-iv-b73608ab/
+500px_url: https://soundcloud.com/dudley-raine-iv
 
 # build settings
 markdown: kramdown

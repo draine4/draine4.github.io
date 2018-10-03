@@ -2,11 +2,14 @@
 layout: post
 title: Videos
 description: Some of the videos of my work
-image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
 
-These are videos of my work
+{% include youtubePlayer.html id="oYD4N_MVFpU" %}
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus.
+{% include youtubePlayer.html id="BEgMupBsB5A" %}
+
+{% include youtubePlayer.html id="EOTcgXxBmwE" %}
+
+{% include youtubePlayer.html id="uDvYGMM1Hpw" %}

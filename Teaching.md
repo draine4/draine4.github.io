@@ -24,6 +24,8 @@ nav-menu: true
 <div class="row">
 	<div class="10u 12u$(small)">
 
+		<span class="image right"><img src="assets/images/pic04.jpg" alt="" /></span>
+
 		<h4>Dudley’s qualifications include:</h4>
 		<ul>
 			<li>Attending Manhattan School of Music under Karen Ritscher’s tutelage. Dudley is a third generation Karen Tuttle student, whose philosophy focused on using the parts of the body most effectively for playing the viola.</li>
