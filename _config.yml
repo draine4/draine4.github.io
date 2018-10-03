@@ -6,10 +6,8 @@ description: Dudley <br/>NYC- Based Violist
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Sugar Hill
 city: New York
 state: NY
-zip_code: 55555
 country: USA
 phone: (434) 944-8122
 

@@ -27,7 +27,7 @@ nav-menu: true
 				</header>
 				<!-- <p>Nullam et orcs.</p> -->
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="http://opus87music.com/" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
